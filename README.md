@@ -11,13 +11,13 @@ Tengo un buen nivel de ingles aunque no tengo ninguna certificacion actualmente
 -   🧠  Actualmenete estoy en un curso de especializacion en ciberseguridad y trabajando en proyectos personales
 
 ### 🛠 &nbsp;Tech Stack
-#### Software
+#### 💻 &nbsp;Software
 [![My Skills](https://skillicons.dev/icons?i=arch,aws,docker,eclipse,figma,git,github,linux,nginx,postman,vercel,vscode)](https://skillicons.dev)
 
-#### Frontend
+#### 🎨 &nbsp;Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,angular,astro,htmx,nextjs,react,tailwind)](https://skillicons.dev)
 
-#### Backend
+#### 🔧 &nbsp;Backend
 [![My Skills](https://skillicons.dev/icons?i=firebase,java,laravel,mysql,nodejs,npm,php,prisma,py)](https://skillicons.dev)
 
 ### ⚙️ &nbsp;GitHub Analytics
