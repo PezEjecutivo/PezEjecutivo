@@ -1,15 +1,14 @@
-# <h1 align="center">Hi 👋, I'm Pablo Valladares</h1>
+# <h1 align="center">Buenas! 👋, Soy Pablo Valladares</h1>
 
-## <h3 align="center">A passionate Backend developer from Spain</h3>
+## <h3 align="center">Un desarrollador web full stack de España!</h3>
 
 ---
 
-i have b1-b2 english level (i have no certification, but if u want, u can test my english level by yourself)
+Tengo un buen nivel de ingles aunque no tengo ninguna certificacion actualmente
 
--   🌍  I'm based in El Puerto de Santa Maria
--   ✉️  You can contact me at [waterlolbusiness@hotmail.com](mailto:waterlolbusiness@hotmail.com)
--   🧠  I'm learning NodeJS and improving my english level
--   🤝  I'm open to collaborating on everything
+-   🌍  Vivo en El Puerto de Santa Maria
+-   ✉️  Puedes contactarme aqui [valladaresgonzalezpablo@gmail.com](mailto:valladaresgonzalezpablo@gmail.com)
+-   🧠  Actualmenete estoy en un curso de especializacion en ciberseguridad y trabajando en proyectos personales
 
 ### 🛠 &nbsp;Tech Stack
 
