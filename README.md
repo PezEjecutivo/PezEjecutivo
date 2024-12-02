@@ -7,7 +7,7 @@
 Tengo un buen nivel de ingles aunque no tengo ninguna certificacion actualmente
 
 -   🌍  Vivo en El Puerto de Santa Maria
--   ✉️  Puedes contactarme aqui [valladaresgonzalezpablo@gmail.com](mailto:valladaresgonzalezpablo@gmail.com)
+-   ✉️  Puedes contactarme aqui [PValladaresG@proton.me](mailto:PValladaresG@proton.me)
 -   🧠  Actualmenete estoy en un curso de especializacion en ciberseguridad y trabajando en proyectos personales
 
 ### 🛠 &nbsp;Tech Stack
