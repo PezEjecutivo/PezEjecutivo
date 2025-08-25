@@ -1,9 +1,10 @@
 <img src="./images/banner.png">
 
--   🌍  Vivo en El Puerto de Santa Maria
--   ✉️  Puedes contactarme aqui [PValladaresG@proton.me](mailto:PValladaresG@proton.me)
--   🧠  Actualmenete estoy trabajando en proyectos personales
--   🌐  Puedes encontrar mi portfolio aquí [Portfolio](https://www.pablo-vg.com/es/)
+-   🌍  Vivo en El Puerto de Santa Maria.
+-   🧠  Actualmenete estoy trabajando en proyectos personales.
+-   ✉️  Puedes contactarme aquí [PValladaresG@proton.me](mailto:PValladaresG@proton.me).
+-   🌐  Puedes encontrar mi portfolio aquí [Portfolio](https://www.pablo-vg.com/es/).
+-   📄  Aqui podras encontrar mi curriculum [CV](https://pvgceti.github.io/NotasYProyectos/Sobre-m%C3%AD).
 
 ### 💻 &nbsp;Software
 [![My Skills](https://skillicons.dev/icons?i=git,linux,docker,nginx,aws,postman,vercel,eclipse,figma)](https://skillicons.dev)
