@@ -1,6 +1,4 @@
-# <h1 align="center">Buenas! 👋, Soy Pablo Valladares</h1>
-
-## <h3 align="center">Un desarrollador web full stack de España!</h3>
+<img src="./images/banner.png">
 
 -   🌍  Vivo en El Puerto de Santa Maria
 -   ✉️  Puedes contactarme aqui [PValladaresG@proton.me](mailto:PValladaresG@proton.me)
@@ -19,11 +17,11 @@
 ### 📹 Mis Videos de YouTube
 
 <a href="https://www.youtube.com/watch?v=ussNAHN84xA">
-    <img src="https://img.youtube.com/vi/ussNAHN84xA/0.jpg" alt="Cómo desplegar tus apuntes de manera gratuita" width="320" height="180">
+    <img src="./images/Miniatura 1.png" alt="Cómo desplegar tus apuntes de manera gratuita" width="240" height="135">
 </a>
 <a href="https://www.youtube.com/watch?v=vsNZ7zzyjDM">
-    <img src="https://img.youtube.com/vi/vsNZ7zzyjDM/0.jpg" alt="Centralización de logs con syslog-ng y Docker" width="320" height="180">
+    <img src="./images/Miniatura 2.png" alt="Centralización de logs con syslog-ng y Docker" width="240" height="135">
 </a>
 <a href="https://www.youtube.com/watch?v=rsNB6r0bXp8">
-    <img src="https://img.youtube.com/vi/rsNB6r0bXp8/0.jpg" alt="Prevención de incidentes - Cómo hacer PortKnocking" width="320" height="180">
+    <img src="./images/Miniatura 3.png" alt="Prevención de incidentes - Cómo hacer PortKnocking" width="240" height="135">
 </a>
