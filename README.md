@@ -17,13 +17,13 @@
 ### 📹 Mis Videos de YouTube
 
 <div>
-    <a href="https://www.youtube.com/watch?v=ussNAHN84xA">
+    <a href="https://www.youtube.com/watch?v=ussNAHN84xA" target="_blank">
         <img src="./images/Miniatura 1.png" alt="Cómo desplegar tus apuntes de manera gratuita" width="240" height="135">
     </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.youtube.com/watch?v=vsNZ7zzyjDM">
+    <a href="https://www.youtube.com/watch?v=vsNZ7zzyjDM" target="_blank">
         <img src="./images/Miniatura 2.png" alt="Centralización de logs con syslog-ng y Docker" width="240" height="135">
     </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.youtube.com/watch?v=rsNB6r0bXp8">
+    <a href="https://www.youtube.com/watch?v=rsNB6r0bXp8" target="_blank">
         <img src="./images/Miniatura 3.png" alt="Prevención de incidentes - Cómo hacer PortKnocking" width="240" height="135">
     </a>
 </div>
