@@ -16,6 +16,7 @@
 
 ### 📹 Mis Videos de YouTube
 
+<div style="display: flex; gap: 1rem">
 <a href="https://www.youtube.com/watch?v=ussNAHN84xA">
     <img src="./images/Miniatura 1.png" alt="Cómo desplegar tus apuntes de manera gratuita" width="240" height="135">
 </a>
@@ -25,3 +26,4 @@
 <a href="https://www.youtube.com/watch?v=rsNB6r0bXp8">
     <img src="./images/Miniatura 3.png" alt="Prevención de incidentes - Cómo hacer PortKnocking" width="240" height="135">
 </a>
+</div>
