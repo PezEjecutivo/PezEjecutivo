@@ -2,29 +2,28 @@
 
 ## <h3 align="center">Un desarrollador web full stack de España!</h3>
 
----
-
-Tengo un buen nivel de ingles aunque no tengo ninguna certificacion actualmente
-
 -   🌍  Vivo en El Puerto de Santa Maria
 -   ✉️  Puedes contactarme aqui [PValladaresG@proton.me](mailto:PValladaresG@proton.me)
--   🧠  Actualmenete estoy en un curso de especializacion en ciberseguridad y trabajando en proyectos personales
+-   🧠  Actualmenete estoy trabajando en proyectos personales
+-   🌐  Puedes encontrar mi portfolio aquí [Portfolio](https://www.pablo-vg.com/es/)
 
-### 🛠 &nbsp;Tech Stack
-#### 💻 &nbsp;Software
-[![My Skills](https://skillicons.dev/icons?i=arch,aws,docker,eclipse,figma,git,github,linux,nginx,postman,vercel,vscode)](https://skillicons.dev)
+### 💻 &nbsp;Software
+[![My Skills](https://skillicons.dev/icons?i=git,linux,docker,nginx,aws,postman,vercel,eclipse,figma)](https://skillicons.dev)
 
-#### 🎨 &nbsp;Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,angular,astro,htmx,nextjs,react,tailwind)](https://skillicons.dev)
+### 🎨 &nbsp;Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,ts,react,nextjs,angular,astro,htmx,tailwind,sass)](https://skillicons.dev)
 
-#### 🔧 &nbsp;Backend
-[![My Skills](https://skillicons.dev/icons?i=firebase,java,laravel,mysql,nodejs,npm,php,prisma,py)](https://skillicons.dev)
+### 🔧 &nbsp;Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,php,java,laravel,prisma,mysql,firebase,py,elasticsearch)](https://skillicons.dev)
 
-### ⚙️ &nbsp;GitHub Analytics
+### 📹 Mis Videos de YouTube
 
-<p align="center">
-<a href="https://github.com/PezEjecutivo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pezejecutivo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pezejecutivo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+<a href="https://www.youtube.com/watch?v=ussNAHN84xA">
+    <img src="https://img.youtube.com/vi/ussNAHN84xA/0.jpg" alt="Cómo desplegar tus apuntes de manera gratuita" width="320" height="180">
 </a>
-</p>
+<a href="https://www.youtube.com/watch?v=vsNZ7zzyjDM">
+    <img src="https://img.youtube.com/vi/vsNZ7zzyjDM/0.jpg" alt="Centralización de logs con syslog-ng y Docker" width="320" height="180">
+</a>
+<a href="https://www.youtube.com/watch?v=rsNB6r0bXp8">
+    <img src="https://img.youtube.com/vi/rsNB6r0bXp8/0.jpg" alt="Prevención de incidentes - Cómo hacer PortKnocking" width="320" height="180">
+</a>
